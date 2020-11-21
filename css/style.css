@@ -34,3 +34,14 @@ p {
   margin-right: auto;
   width: 75%;
 }
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}
