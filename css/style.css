@@ -50,3 +50,10 @@ footer.page-footer {
   height: 80%;
   width: 100%;
 }
+.next,
+.prev {
+  position: absolute;
+  top: 45%;
+  color: black;
+  cursor: pointer;
+}
