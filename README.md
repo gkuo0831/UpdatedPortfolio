@@ -12,8 +12,8 @@
 
 # Links:
 
-https://gkuo0831.github.io/UpdatedPortfolio/
-https://github.com/gkuo0831/UpdatedPortfolio
+- https://gkuo0831.github.io/UpdatedPortfolio/
+- https://github.com/gkuo0831/UpdatedPortfolio
 
 # Programs Used:
 
