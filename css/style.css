@@ -81,3 +81,7 @@ footer.page-footer {
     top: 0;
   }
 }
+
+.projects {
+  text-decoration-line: underline;
+}
