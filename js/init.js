@@ -8,3 +8,8 @@
 $(document).ready(function () {
   $(".materialboxed").materialbox();
 });
+
+$(document).ready(function () {
+    $(".carousel")
+      .carousel({ fullWidth: true })
+      .css("height", $(window).height());
