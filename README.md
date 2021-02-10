@@ -7,8 +7,6 @@
 # Screenshots:
 
 ![Screen Shot 2020-11-21 at 11 53 15 AM](https://user-images.githubusercontent.com/68671968/99885159-379b4480-2bf0-11eb-92f9-85433ed74f8e.png)
-![Screen Shot 2020-11-21 at 11 54 13 AM](https://user-images.githubusercontent.com/68671968/99885171-4aae1480-2bf0-11eb-94ce-ac37832bd6b6.png)
-![Screen Shot 2020-11-21 at 11 54 52 AM](https://user-images.githubusercontent.com/68671968/99885184-5f8aa800-2bf0-11eb-90dd-f597ac71706d.png)
 
 # Links:
 
